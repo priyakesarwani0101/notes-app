@@ -28,7 +28,8 @@ Remove notes by clicking on the delete icon on each note card.
 Edit notes by clicking on the edit icon on the note card
 
 ## Dependencies:
-
+### React: [https://reactjs.org/](https://reactjs.org/)
+### Tailwind CSS: [https://tailwindcss.com/](https://tailwindcss.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
