@@ -27,6 +27,12 @@ Remove notes by clicking on the delete icon on each note card.
 
 Edit notes by clicking on the edit icon on the note card
 
+## Deployment Info
+
+Project is deployed on vercel
+
+#### Deployed Link: [https://note-app-gamma-jet.vercel.app/](https://note-app-gamma-jet.vercel.app/)
+
 ## Dependencies:
 ### React: [https://reactjs.org/](https://reactjs.org/)
 ### Tailwind CSS: [https://tailwindcss.com/](https://tailwindcss.com/)
