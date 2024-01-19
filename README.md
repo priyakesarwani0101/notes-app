@@ -8,6 +8,7 @@ This application allows users to manage their notes, search, sort, and paginate 
 Add new notes using the application interface.
 
 ### 2. Search:
+<img src="https://ik.imagekit.io/priya0101/Screenshot%202024-01-19%20at%209.42.40%E2%80%AFPM_vA4d8hYuS.png?updatedAt=1705682913689" alt="" />
 
 Utilize the search bar to filter notes based on title or description.
 
