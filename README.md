@@ -25,6 +25,7 @@ Navigate through different pages using the pagination buttons.
 Remove notes by clicking on the delete icon on each note card.
 
 ### 6. Edit
+<img src="https://ik.imagekit.io/priya0101/Screenshot%202024-01-19%20at%209.42.59%E2%80%AFPM_atOIYkVgn.png?updatedAt=1705683021287" alt="" />
 
 Edit notes by clicking on the edit icon on the note card
 
