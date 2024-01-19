@@ -4,6 +4,7 @@ This application allows users to manage their notes, search, sort, and paginate 
 
 ## Usage
 ### 1. Add Notes:
+<img src="https://ik.imagekit.io/priya0101/Screenshot%202024-01-19%20at%209.42.52%E2%80%AFPM_ncR73q_0v.png?updatedAt=1705684487679" alt="" />
 
 Add new notes using the application interface.
 
@@ -28,6 +29,9 @@ Remove notes by clicking on the delete icon on each note card.
 <img src="https://ik.imagekit.io/priya0101/Screenshot%202024-01-19%20at%209.42.59%E2%80%AFPM_atOIYkVgn.png?updatedAt=1705683021287" alt="" />
 
 Edit notes by clicking on the edit icon on the note card
+
+<img src="https://ik.imagekit.io/priya0101/Screenshot%202024-01-19%20at%209.49.23%E2%80%AFPM_-Gqm6ewJI.png?updatedAt=1705684573789" alt="" />
+Empty Data image
 
 ## Deployment Info
 
