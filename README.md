@@ -1,4 +1,34 @@
-# Getting Started with Create React App
+# Welcome to Notes Management App!
+
+This application allows users to manage their notes, search, sort, and paginate through them conveniently.
+
+## Usage
+### 1. Add Notes:
+
+Add new notes using the application interface.
+
+### 2. Search:
+
+Utilize the search bar to filter notes based on title or description.
+
+### 3. Sort:
+
+Choose sorting criteria and order from the provided dropdowns.
+
+### 4. Pagination:
+
+Navigate through different pages using the pagination buttons.
+
+### 5. Delete:
+
+Remove notes by clicking on the delete icon on each note card.
+
+### 6. Edit
+
+Edit notes by clicking on the edit icon on the note card
+
+## Dependencies:
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
